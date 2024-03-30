@@ -10,8 +10,8 @@ K8s Overview: https://kubernetes.io/docs/concepts/overview/#why-you-need-kuberne
 ## Try K8s 
 
 
--  [Kubeadm Installation Guide](./kubeadm/kubeadm_installation_guide.md) - Try K8 Locally
--  [Minikube Installation Guide](./minikube/minikube_installation_guide.md) - Setup a Production environment
+-  [Kubeadm Installation Guide](./kubeadm/kubeadm_installation_guide.md) - Setup a Production environment
+-  [Minikube Installation Guide](./minikube/minikube_installation_guide.md) - Try K8 Locally
 
 ## Architecture Guides
 
